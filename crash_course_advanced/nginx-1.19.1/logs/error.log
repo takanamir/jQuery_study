@@ -1,0 +1,5 @@
+2020/07/10 12:19:12 [emerg] 122592#127112: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/07/10 12:20:53 [notice] 114916#129280: signal process started
+2020/07/10 12:20:53 [error] 114916#129280: CreateFile() "C:\Users\TAKANAMI\Documents\jquery_study\crash_course_advanced\nginx-1.19.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/07/10 12:26:33 [emerg] 134072#134076: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/07/10 12:43:28 [notice] 127640#127152: signal process started
